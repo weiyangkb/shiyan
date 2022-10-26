@@ -23,6 +23,7 @@
     }
     if(sum % 11 ==0){
         B_ibsn = ibsn;
+        cout<<"添加书籍成功"<<endl;
      }
     else{
         cout<<"ibsn码错误"<<endl;
